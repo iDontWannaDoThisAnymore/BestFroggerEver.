@@ -19,6 +19,7 @@ void SquarePixels()
 int main()
 {
 	SquarePixels();
+	std::cout << "basta ya";
 }
 
 /*		COSAS A RECORDAR
