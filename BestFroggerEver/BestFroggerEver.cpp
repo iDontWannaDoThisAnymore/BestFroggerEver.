@@ -25,3 +25,5 @@ int main()
 /*		COSAS A RECORDAR
 -	Aprenderse SquarePixels
 */
+
+//yo me cago en el creador de esta página de mierda
